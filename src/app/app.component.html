@@ -1,0 +1,50 @@
+<div class="container">
+  <div class="row" style="margin-bottom: 20px">
+    <mat-paginator #pagin
+      [length]="dataLength"
+      [pageSize]="pageSize"
+      [pageSizeOptions]="[10, 15, 25, 100]"
+      (page)="onChangePage($event)">
+    </mat-paginator>
+  </div>
+  <div class="row">
+    <form #f="ngForm" (ngSubmit)="onSubmit(f)">
+      <div style="float: left">
+        <label>Search by: </label><br>
+        <mat-radio-group name="selectedData" ngModel required>
+          <mat-radio-button value="author">Author</mat-radio-button>
+          <mat-radio-button value="title">Title</mat-radio-button>
+          <mat-radio-button value="allData">All Data</mat-radio-button>
+        </mat-radio-group>
+      </div>
+      <div style="float: right">
+        <mat-form-field>
+          <input
+            matInput
+            placeholder="Search"
+            type="text"
+            name="searchData"
+            ngModel
+            required>
+        </mat-form-field>
+        <button mat-raised-button color="primary" type="submit" [disabled]="!f.valid">Search</button>
+      </div>
+    </form>
+    <table class="table table-striped" *ngIf="data.length">
+      <thead>
+      <tr>
+        <th>#</th>
+        <th><strong (click)="onSortData('author')" style="cursor: pointer">Author </strong><small> (click on Author to sort)</small></th>
+        <th><strong (click)="onSortData('title')" style="cursor: pointer">Title </strong><small> (click on Title to sort)</small></th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let book of data | slice:[countFrom]:[countTo]; let i = index">
+        <td>{{ i + 1 }}</td>
+        <td matTooltip="{{onAuthorHover(book.author)}}">{{ book.author }}</td>
+        <td>{{ book.title }}</td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

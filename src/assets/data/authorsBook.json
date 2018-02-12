@@ -1,0 +1,798 @@
+[
+  {
+    "author": "H. P. Lovecraft",
+    "books": 1
+  },
+  {
+    "author": "Lewis Carroll",
+    "books": 2
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "books": 1
+  },
+  {
+    "author": "Mark Twain",
+    "books": 1
+  },
+  {
+    "author": "H. G. Wells",
+    "books": 5
+  },
+  {
+    "author": "J. K. Rowling",
+    "books": 7
+  },
+  {
+    "author": "Michael Chabon",
+    "books": 2
+  },
+  {
+    "author": "Douglas Adams",
+    "books": 7
+  },
+  {
+    "author": "Brian W. Aldiss",
+    "books": 3
+  },
+  {
+    "author": "Philip K. Dick",
+    "books": 10
+  },
+  {
+    "author": "Becky Chambers",
+    "books": 1
+  },
+  {
+    "author": "C. S. Lewis",
+    "books": 11
+  },
+  {
+    "author": "Neil Gaiman",
+    "books": 17
+  },
+  {
+    "author": "Jules Verne",
+    "books": 2
+  },
+  {
+    "author": "Gene Wolfe",
+    "books": 7
+  },
+  {
+    "author": "Cory Doctorow",
+    "books": 2
+  },
+  {
+    "author": "Kate Wilhelm",
+    "books": 1
+  },
+  {
+    "author": "Ray Bradbury",
+    "books": 5
+  },
+  {
+    "author": "Michael Moorcock",
+    "books": 4
+  },
+  {
+    "author": "Susanna Clarke",
+    "books": 1
+  },
+  {
+    "author": "Robert A. Heinlein",
+    "books": 12
+  },
+  {
+    "author": "Frederik Pohl",
+    "books": 4
+  },
+  {
+    "author": "N. K. Jemisin",
+    "books": 2
+  },
+  {
+    "author": "Ursula K. Le Guin",
+    "books": 10
+  },
+  {
+    "author": "Lois McMaster Bujold",
+    "books": 17
+  },
+  {
+    "author": "William Gibson",
+    "books": 7
+  },
+  {
+    "author": "Saladin Ahmed",
+    "books": 1
+  },
+  {
+    "author": "Joe Haldeman",
+    "books": 4
+  },
+  {
+    "author": "M. R. Carey",
+    "books": 1
+  },
+  {
+    "author": "Philip José Farmer",
+    "books": 1
+  },
+  {
+    "author": "J. R. R. Tolkien",
+    "books": 6
+  },
+  {
+    "author": "Shirley Jackson",
+    "books": 1
+  },
+  {
+    "author": "Anne Rice",
+    "books": 3
+  },
+  {
+    "author": "Kim Stanley Robinson",
+    "books": 5
+  },
+  {
+    "author": "Oscar Wilde",
+    "books": 1
+  },
+  {
+    "author": "Connie Willis",
+    "books": 5
+  },
+  {
+    "author": "Arthur C. Clarke",
+    "books": 9
+  },
+  {
+    "author": "Samuel R. Delany",
+    "books": 4
+  },
+  {
+    "author": "Mikhail Bulgakov",
+    "books": 1
+  },
+  {
+    "author": "Scott Lynch",
+    "books": 1
+  },
+  {
+    "author": "Thomas Harris",
+    "books": 1
+  },
+  {
+    "author": "Walter M. Miller, Jr.",
+    "books": 1
+  },
+  {
+    "author": "Alfred Bester",
+    "books": 2
+  },
+  {
+    "author": "Audrey Niffenegger",
+    "books": 1
+  },
+  {
+    "author": "T. H. White",
+    "books": 2
+  },
+  {
+    "author": "Stephen King",
+    "books": 27
+  },
+  {
+    "author": "Stephen R. Donaldson",
+    "books": 6
+  },
+  {
+    "author": "Charlie Jane Anders",
+    "books": 1
+  },
+  {
+    "author": "John Wyndham",
+    "books": 3
+  },
+  {
+    "author": "Robert J. Sawyer",
+    "books": 4
+  },
+  {
+    "author": "Robert Silverberg",
+    "books": 3
+  },
+  {
+    "author": "Harry Harrison",
+    "books": 3
+  },
+  {
+    "author": "Neal Stephenson",
+    "books": 8
+  },
+  {
+    "author": "Roger Zelazny",
+    "books": 11
+  },
+  {
+    "author": "Larry Niven",
+    "books": 4
+  },
+  {
+    "author": "Helene Wecker",
+    "books": 1
+  },
+  {
+    "author": "Cixin Liu",
+    "books": 1
+  },
+  {
+    "author": "Isaac Asimov",
+    "books": 18
+  },
+  {
+    "author": "China Miéville",
+    "books": 6
+  },
+  {
+    "author": "Octavia E. Butler",
+    "books": 3
+  },
+  {
+    "author": "Robert Jordan",
+    "books": 11
+  },
+  {
+    "author": "Brandon Sanderson",
+    "books": 6
+  },
+  {
+    "author": "Charles Stross",
+    "books": 7
+  },
+  {
+    "author": "Julian May",
+    "books": 1
+  },
+  {
+    "author": "Vernor Vinge",
+    "books": 4
+  },
+  {
+    "author": "Kurt Vonnegut, Jr.",
+    "books": 5
+  },
+  {
+    "author": "Henry James",
+    "books": 1
+  },
+  {
+    "author": "Larry NivenJerry Pournelle",
+    "books": 3
+  },
+  {
+    "author": "Piers Anthony",
+    "books": 2
+  },
+  {
+    "author": "Robin Hobb",
+    "books": 3
+  },
+  {
+    "author": "William GibsonBruce Sterling",
+    "books": 1
+  },
+  {
+    "author": "Orson Scott Card",
+    "books": 12
+  },
+  {
+    "author": "Terry Brooks",
+    "books": 1
+  },
+  {
+    "author": "Anne McCaffrey",
+    "books": 6
+  },
+  {
+    "author": "George R. R. Martin",
+    "books": 5
+  },
+  {
+    "author": "James Blish",
+    "books": 2
+  },
+  {
+    "author": "Dan Simmons",
+    "books": 7
+  },
+  {
+    "author": "Michael Crichton",
+    "books": 5
+  },
+  {
+    "author": "David Eddings",
+    "books": 6
+  },
+  {
+    "author": "Raymond E. Feist",
+    "books": 1
+  },
+  {
+    "author": "Patrick Rothfuss",
+    "books": 2
+  },
+  {
+    "author": "Naomi Novik",
+    "books": 2
+  },
+  {
+    "author": "Iain M. Banks",
+    "books": 12
+  },
+  {
+    "author": "George Orwell",
+    "books": 2
+  },
+  {
+    "author": "Daniel Keyes",
+    "books": 1
+  },
+  {
+    "author": "Frederik PohlC. M. Kornbluth",
+    "books": 1
+  },
+  {
+    "author": "Margaret Atwood",
+    "books": 2
+  },
+  {
+    "author": "Steven Erikson",
+    "books": 1
+  },
+  {
+    "author": "Umberto Eco",
+    "books": 1
+  },
+  {
+    "author": "Terry Goodkind",
+    "books": 1
+  },
+  {
+    "author": "Frank Herbert",
+    "books": 7
+  },
+  {
+    "author": "Terry Pratchett",
+    "books": 34
+  },
+  {
+    "author": "Robert JordanBrandon Sanderson",
+    "books": 3
+  },
+  {
+    "author": "David Weber",
+    "books": 1
+  },
+  {
+    "author": "Marion Zimmer Bradley",
+    "books": 1
+  },
+  {
+    "author": "Jack McDevitt",
+    "books": 2
+  },
+  {
+    "author": "Olaf Stapledon",
+    "books": 2
+  },
+  {
+    "author": "Anthony Burgess",
+    "books": 1
+  },
+  {
+    "author": "Edgar Rice Burroughs",
+    "books": 1
+  },
+  {
+    "author": "Timothy Zahn",
+    "books": 3
+  },
+  {
+    "author": "Christopher Priest",
+    "books": 2
+  },
+  {
+    "author": "Philip Pullman",
+    "books": 3
+  },
+  {
+    "author": "Jonathan Swift",
+    "books": 1
+  },
+  {
+    "author": "Katherine Addison",
+    "books": 1
+  },
+  {
+    "author": "Hal Clement",
+    "books": 1
+  },
+  {
+    "author": "John Scalzi",
+    "books": 6
+  },
+  {
+    "author": "William Goldman",
+    "books": 1
+  },
+  {
+    "author": "Arthur C. ClarkeGentry Lee",
+    "books": 2
+  },
+  {
+    "author": "William Golding",
+    "books": 1
+  },
+  {
+    "author": "Ann Leckie",
+    "books": 3
+  },
+  {
+    "author": "Elizabeth Moon",
+    "books": 1
+  },
+  {
+    "author": "Franz Kafka",
+    "books": 2
+  },
+  {
+    "author": "John Brunner",
+    "books": 1
+  },
+  {
+    "author": "J. G. Ballard",
+    "books": 1
+  },
+  {
+    "author": "Antoine de Saint-Exupery",
+    "books": 1
+  },
+  {
+    "author": "Hannu Rajaniemi",
+    "books": 1
+  },
+  {
+    "author": "Ian McDonald",
+    "books": 1
+  },
+  {
+    "author": "Madeleine L’Engle",
+    "books": 1
+  },
+  {
+    "author": "Harlan Ellison",
+    "books": 1
+  },
+  {
+    "author": "C. J. Cherryh",
+    "books": 2
+  },
+  {
+    "author": "Suzanne Collins",
+    "books": 3
+  },
+  {
+    "author": "Erin Morgenstern",
+    "books": 1
+  },
+  {
+    "author": "Alice Sebold",
+    "books": 1
+  },
+  {
+    "author": "Nancy Kress",
+    "books": 1
+  },
+  {
+    "author": "Peter S. Beagle",
+    "books": 1
+  },
+  {
+    "author": "Tim Powers",
+    "books": 1
+  },
+  {
+    "author": "Alastair Reynolds",
+    "books": 6
+  },
+  {
+    "author": "Ernest Cline",
+    "books": 1
+  },
+  {
+    "author": "Greg Bear",
+    "books": 5
+  },
+  {
+    "author": "Joe Abercrombie",
+    "books": 1
+  },
+  {
+    "author": "Mary Stewart",
+    "books": 1
+  },
+  {
+    "author": "Aldous Huxley",
+    "books": 1
+  },
+  {
+    "author": "Theodore Sturgeon",
+    "books": 1
+  },
+  {
+    "author": "Ira Levin",
+    "books": 1
+  },
+  {
+    "author": "Jasper Fforde",
+    "books": 1
+  },
+  {
+    "author": "Robert Charles Wilson",
+    "books": 2
+  },
+  {
+    "author": "Alexei Panshin",
+    "books": 1
+  },
+  {
+    "author": "Kazuo Ishiguro",
+    "books": 1
+  },
+  {
+    "author": "Arkady StrugatskyBoris Strugatsky",
+    "books": 1
+  },
+  {
+    "author": "David Brin",
+    "books": 7
+  },
+  {
+    "author": "James S. A. Corey",
+    "books": 3
+  },
+  {
+    "author": "Paolo Bacigalupi",
+    "books": 1
+  },
+  {
+    "author": "Alan MooreDavid Lloyd",
+    "books": 1
+  },
+  {
+    "author": "Richard Adams",
+    "books": 1
+  },
+  {
+    "author": "Stephen Baxter",
+    "books": 1
+  },
+  {
+    "author": "Jacqueline Carey",
+    "books": 1
+  },
+  {
+    "author": "Joanna Russ",
+    "books": 1
+  },
+  {
+    "author": "Richard K. Morgan",
+    "books": 1
+  },
+  {
+    "author": "Emily St. John Mandel",
+    "books": 1
+  },
+  {
+    "author": "Joan D. Vinge",
+    "books": 1
+  },
+  {
+    "author": "Arthur Conan Doyle",
+    "books": 1
+  },
+  {
+    "author": "Jim Butcher",
+    "books": 5
+  },
+  {
+    "author": "Lev Grossman",
+    "books": 1
+  },
+  {
+    "author": "Pat Frank",
+    "books": 1
+  },
+  {
+    "author": "H. Beam Piper",
+    "books": 1
+  },
+  {
+    "author": "Mary Shelley",
+    "books": 1
+  },
+  {
+    "author": "Stephen KingPeter Straub",
+    "books": 1
+  },
+  {
+    "author": "Jo Walton",
+    "books": 1
+  },
+  {
+    "author": "Fritz Leiber",
+    "books": 2
+  },
+  {
+    "author": "Jeff VanderMeer",
+    "books": 2
+  },
+  {
+    "author": "George R. Stewart",
+    "books": 1
+  },
+  {
+    "author": "William Peter Blatty",
+    "books": 1
+  },
+  {
+    "author": "David Mitchell",
+    "books": 1
+  },
+  {
+    "author": "Richard Matheson",
+    "books": 1
+  },
+  {
+    "author": "Andy Weir",
+    "books": 1
+  },
+  {
+    "author": "Clifford D. Simak",
+    "books": 2
+  },
+  {
+    "author": "Mary Doria Russell",
+    "books": 1
+  },
+  {
+    "author": "Mervyn Peake",
+    "books": 1
+  },
+  {
+    "author": "Max Brooks",
+    "books": 1
+  },
+  {
+    "author": "John Crowley",
+    "books": 1
+  },
+  {
+    "author": "Neil GaimanTerry Pratchett",
+    "books": 1
+  },
+  {
+    "author": "Clive Barker",
+    "books": 1
+  },
+  {
+    "author": "Vonda N. McIntyre",
+    "books": 1
+  },
+  {
+    "author": "Cherie Priest",
+    "books": 1
+  },
+  {
+    "author": "Peter Watts",
+    "books": 1
+  },
+  {
+    "author": "Chuck Palahniuk",
+    "books": 1
+  },
+  {
+    "author": "Diana Gabaldon",
+    "books": 1
+  },
+  {
+    "author": "Gregory Benford",
+    "books": 1
+  },
+  {
+    "author": "Lois Lowry",
+    "books": 1
+  },
+  {
+    "author": "Lauren Beukes",
+    "books": 1
+  },
+  {
+    "author": "Edwin A. Abbott",
+    "books": 1
+  },
+  {
+    "author": "Poul Anderson",
+    "books": 1
+  },
+  {
+    "author": "Mira Grant",
+    "books": 2
+  },
+  {
+    "author": "Cormac McCarthy",
+    "books": 1
+  },
+  {
+    "author": "Alan MooreDave Gibbons",
+    "books": 1
+  },
+  {
+    "author": "Stanislaw Lem",
+    "books": 1
+  },
+  {
+    "author": "Gentry LeeArthur C. Clarke",
+    "books": 1
+  },
+  {
+    "author": "Carl Sagan",
+    "books": 1
+  },
+  {
+    "author": "Gordon R. Dickson",
+    "books": 1
+  },
+  {
+    "author": "Toni Morrison",
+    "books": 1
+  },
+  {
+    "author": "Bram Stoker",
+    "books": 1
+  },
+  {
+    "author": "Guy Gavriel Kay",
+    "books": 1
+  },
+  {
+    "author": "Gregory Maguire",
+    "books": 1
+  },
+  {
+    "author": "Ken Grimwood",
+    "books": 1
+  },
+  {
+    "author": "Christopher Paolini",
+    "books": 1
+  },
+  {
+    "author": "Sheri S. Tepper",
+    "books": 1
+  },
+  {
+    "author": "John Varley",
+    "books": 1
+  },
+  {
+    "author": "A. E. Van Vogt",
+    "books": 1
+  },
+  {
+    "author": "Yevgeny Zamyatin",
+    "books": 1
+  }
+]
